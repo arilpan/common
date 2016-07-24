@@ -7,11 +7,90 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
+
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+
     <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+
     <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+
+    <style name="pre_order_list_head_layout">
+        <item name="android:width">match_parent</item>
+        <item name="android:height">45dp</item>
+    </style>
+
+    <style name="pre_order_list_head_title_image">
+        <item name="android:width">15dp</item>
+        <item name="android:height">14dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginLeft">9dp</item>
+        <item name="android:textColor">#515151</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="pre_order_list_head_desc_text">
+        <item name="android:width">55dp</item>
+        <item name="android:height">14dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#515151</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+    </style>
+
+    <style name="pre_order_list_head_img_right">
+        <item name="android:width">10dp</item>
+        <item name="android:height">12dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#515151</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+
+    </style>
+
+    <style name="pre_order_list_layout">
+        <item name="android:width">1000dp</item>
+        <item name="android:height">42dp</item>
+    </style>
+
+    <style name="pre_order_list_title">
+        <item name="android:width">50dp</item>
+        <item name="android:height">14dp</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:layout_marginLeft">9dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:textColor">#515151</item>
+    </style>
+
+    <style name="pre_order_list_desc">
+        <item name="android:width">wrap_content</item>
+        <item name="android:height">14dp</item>
+        <item name="android:layout_gravity">center_vertical</item>
+
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#515151</item>
+        <item name="android:layout_marginLeft">8dp</item>
+    </style>
+
+    <style name="pre_order_list_img_right">
+        <item name="android:width">13dp</item>
+        <item name="android:height">7dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#515151</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_gravity">right</item>
+    </style>
+
+
+    <style name="pre_order_list_img_right_location">
+        <item name="android:width">14dp</item>
+        <item name="android:height">10dp</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#515151</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_gravity">right</item>
+    </style>
 
 </resources>

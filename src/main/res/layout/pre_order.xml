@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+    <!--展示图158dp -->
+    <ImageView
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="158dp"/>
+
+    <LinearLayout
+        style="@style/pre_order_list_head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            style="@style/pre_order_list_head_title_image"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:src="@mipmap/ic_launcher"
+            />
+
+        <TextView
+            style="@style/pre_order_list_head_desc_text"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="8号参观 "/>
+
+        <ImageView
+            style="@style/pre_order_list_head_img_right"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:src="@mipmap/ic_launcher"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/pre_order_list_head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/pre_order_list_title"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="8号参观 "/>
+
+        <TextView
+            style="@style/pre_order_list_desc"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:text="ksjdk"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/pre_order_list_head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/pre_order_list_title"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="8号参观 "/>
+
+        <TextView
+            style="@style/pre_order_list_desc"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:text="ksjdk"
+            />
+    </LinearLayout>
+
+    <!--预约用餐及人数-->
+    <LinearLayout
+        style="@style/pre_order_list_head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            style="@style/pre_order_list_head_title_image"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:src="@mipmap/ic_launcher"
+            />
+
+        <TextView
+            style="@style/pre_order_list_head_desc_text"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="预约用餐 "/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/pre_order_list_head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/pre_order_list_title"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="8号参观 "/>
+
+        <TextView
+            style="@style/pre_order_list_desc"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:text="ksjdk"
+            />
+
+        <ImageView
+            style="@style/pre_order_list_img_right"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/ic_launcher"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/pre_order_list_head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/pre_order_list_title"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="8号参观 "/>
+
+        <TextView
+            style="@style/pre_order_list_desc"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:text="ksjdk"
+            />
+
+        <ImageView
+            style="@style/pre_order_list_img_right"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/ic_launcher"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/pre_order_list_head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/pre_order_list_title"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="8号参观 "/>
+
+        <TextView
+            style="@style/pre_order_list_desc"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:text="ksjdk"
+            />
+
+        <ImageView
+            style="@style/pre_order_list_img_right"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/ic_launcher"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/pre_order_list_head_layout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/pre_order_list_title"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="8号参观 "/>
+
+        <TextView
+            style="@style/pre_order_list_desc"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:text="ksjdk"
+            />
+
+        <ImageView
+            style="@style/pre_order_list_img_right"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:layout_gravity="center_vertical"
+            android:src="@mipmap/ic_launcher"
+            />
+    </LinearLayout>
+    <Button
+        android:layout_marginRight="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_width="match_parent"
+        android:text="预约"
+        android:layout_gravity="center_vertical"
+        android:layout_height="40dp"/>
+</LinearLayout>
