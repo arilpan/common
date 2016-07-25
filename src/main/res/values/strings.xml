@@ -1,4 +1,44 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="action_settings">Settings</string>
+
+    <string name="eight_mall">8号&#160;菜馆</string>
+    <string name="mall_location">餐厅地址:</string>
+    <string name="mall_location_detail">南京市江宁区北沿路85号常青社区101栋</string>
+    <string name="mall_work_time">营业时间:</string>
+    <string name="mall_work_time_detail">早10:30-晚22:00</string>
+    <string name="pre_order">预约用餐</string>
+    <string name="pre_order_time">用餐时间</string>
+    <string name="pre_order_person_num">用餐人数</string>
+    <string name="pre_order_rooms">选择包间</string>
+    <string name="pre_order_food_menu">选择菜品</string>
+    <string name="pre_order_confirm">确认预约</string>
+
+    <string name="select_mall_h1">请选择您的用餐地点</string>
+    <string name="select_mall_1">8号餐馆</string>
+    <string name="select_mall_2">北京烤鸭馆</string>
+
+    <string name="index">首页</string>
+    <string name="discount">优惠</string>
+    <string name="leave_word">留言</string>
+    <string name="mine">我的</string>
+
+    <string name="index_pre_order">预约用餐</string>
+    <string name="index_new_arrival">新品尝鲜</string>
+    <string name="index_competitive_meal">精品套餐</string>
+    <string name="index_recharge_discount">充值优惠</string>
+    <string name="index_dishes_rank">美食排行榜</string>
+    <string name="index_can_always_find_your_love">总能找到你爱的</string>
+    <string name="index_super_value_discount_dishes">超值折扣菜</string>
+    <string name="index_more_than_half_off">不止5折</string>
+
+    <string name="index_recharge_greate_discount">充值巨优惠</string>
+    <string name="index_recharge_member_1000_to_1100">会员充1000送100</string>
+    <string name="index_day_welfare">每日福利</string>
+    <string name="index_give_100_rmb">100元送不停</string>
+
+    <string name="index_hot_dishes">热门菜品</string>
+    <string name="index_see_more">查看更多</string>
+
+
 </resources>
