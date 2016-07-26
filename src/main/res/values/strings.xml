@@ -38,7 +38,15 @@
     <string name="index_give_100_rmb">100元送不停</string>
 
     <string name="index_hot_dishes">热门菜品</string>
-    <string name="index_see_more">查看更多</string>
+    <string name="index_see_more">查看更多></string>
+
+    <string name="index_list_dish_name">北京烤鸭</string>
+    <string name="index_list_dish_desc">皮脆肉嫩，回齿留香</string>
+    <string name="index_list_dish_price">￥68</string>
+    <string name="index_list_dish_sold">已售12345</string>
+    <string name="index_list_dish_sold_num">12345</string>
+    <string name="index_list_dish_mall">门市价:</string>
+    <string name="index_list_dish_mall_price">￥72</string>
 
 
 </resources>
