@@ -168,7 +168,16 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_alignParentLeft">true</item>
     </style>
-
+    <!--选择菜品-->
+    <style name="dishes_order_btn">
+        <item name="android:background">#FF6666</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_width">109dp</item>
+        <item name="android:layout_height">match_parent</item>
+    </style>
 
     <!--通用-->
     <style name="font_center_white">
@@ -192,4 +201,5 @@
         <item name="android:layout_height">0.3dp</item>
         <item name="android:background">@color/line_divider</item>
     </style>
+
 </resources>

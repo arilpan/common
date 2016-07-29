@@ -23,6 +23,7 @@
             android:layout_height="wrap_content">
 
         <LinearLayout
+                android:id="@+id/btn_pre_order"
                 style="@style/index_class_select_layout"
         >
             <ImageView
@@ -41,7 +42,7 @@
                     style="@style/index_class_select_layout_image"/>
             <TextView
                     style="@style/index_class_select_layout_text"
-                    android:text="@string/index_pre_order"
+                    android:text="@string/index_new_arrival"
             />
         </LinearLayout>
 
@@ -54,7 +55,7 @@
                     style="@style/index_class_select_layout_image"/>
             <TextView
                     style="@style/index_class_select_layout_text"
-                    android:text="@string/index_pre_order"
+                    android:text="@string/index_competitive_meal"
             />
         </LinearLayout>
 
@@ -67,7 +68,7 @@
                     style="@style/index_class_select_layout_image"/>
             <TextView
                     style="@style/index_class_select_layout_text"
-                    android:text="@string/index_pre_order"
+                    android:text="@string/index_recharge_discount"
             />
         </LinearLayout>
     </LinearLayout>
@@ -212,13 +213,13 @@
                     android:layout_height="match_parent"/>
         </RelativeLayout>
         <View style="@style/line_divider"/>
-        <ListView
-
+        <android.support.v7.widget.RecyclerView
+                android:id="@+id/index_list"
                 tools:listitem="@layout/index_list_item"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent">
 
-        </ListView>
+        </android.support.v7.widget.RecyclerView>
     </LinearLayout>
 
 </LinearLayout>
